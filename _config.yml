@@ -1,12 +1,12 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: The Holistic Developer
+bio: '“High on a rocky promontory sat an Electric Monk on a bored horse.” ― Douglas Adams'
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://koppl.in/indigo
+url: http://holisticdeveloper.uk
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -22,21 +22,21 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: holisticdeveloper
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+twitter: peterwilkins801
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+#youtube: myyoutube
+#spotify: myspotify
+github: peter-wilkins-mayden
+#medium: medium
+#vimeo: myvimeo
+#email: peter.wilkins@mayden.co.uk
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

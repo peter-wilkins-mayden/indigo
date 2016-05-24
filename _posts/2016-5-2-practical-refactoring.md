@@ -6,35 +6,38 @@ blog: true
 star: true
 ---
 
-#Practical Refactoring
+Practical Refactoring
+---
 
 Check out [Llewellyn Falco and Woddy Zuill's excellent presentation](https://www.youtube.com/watch?v=aWiwDdx_rdo&ab_channel=LlewellynFalco) on how to go about refactoring legacy code. Loads of good advice. My notes below.
 
 
-###Simple techniques for code excellence.
-
+Simple techniques for code excellence.
+---
 >What is legacy code? Any code we want to keep, that works, we want to keep working.
 Two Cars example. No rewrite. Different path. Happy and proud.
 Code excellence is more about discipline that brilliance.
 
 refactor in 2 mins  - never more than 2 mins to check in - run test every two mins
 
-###When to refactor?
+When to refactor?
+---
 refactor when you see code that is hard to understand.
 Spend the time you would have taken understanding it to refactor it. Then the refactor is free.
 Now you have code that expresses its’ purpose, you just have to read it.
 The goal of refactoring is to make code more understandable.
 
-#Three C's
-
-###Remove clutter
+Three C's
+---
+Remove clutter
+---
 - anything that doesn't add understanding or clarity
 - bad formatting
 - useless comments
 - magic numbers
 
-###Remove complexity
-
+Remove complexity
+---
 Big methods "In every big method there are small classes waiting to get out"
 - don't try to understand
 - extract new methods, pull out scopes - curly braces
@@ -42,17 +45,21 @@ Big methods "In every big method there are small classes waiting to get out"
 - Multiple return values problem - create a data object to return
 - Rename as the code becomes clear - composing the method
 
-###Remove cleverness
+Remove cleverness
+---
 If it is too clever to understand atleast encapsulate th e cleverness in a function (hide mess under rug)
 
-#Three D's
-###duplication, duplication, duplication
+Three D's
+---
+duplication, duplication, duplication
+---
 - fold all methods up
 - take a look at the names
 - group similar methods to find the classes within
 - dry out code with polymorphism
 
-###Refactoring procedural code to Good OO code
+Refactoring procedural code to Object Orientated code
+---
 Group methods by names
 - group by arguments
 - group by instance variables

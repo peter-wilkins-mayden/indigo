@@ -11,25 +11,19 @@ permalink: /about/index.html
 
 <ul class="skill-list">
 	<li>PHP ZCE certified</li>
-	<li>Scrum </li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>Certified ScrumMaster®</li>
+	<li>Refactoring Legacy Code</li>
+	<li>TDD and BDD</li>
+	<li>Javascript</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>MySQL</li>
+	<li>Clojure and functional programming</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/peter-wilkins-mayden/trivia">trivia</a></li>
+	<li><a href="https://github.com/peter-wilkins-mayden/sudoku-in-php">sudoku-in-php</a></li>
+	<li><a href="https://github.com/peter-wilkins-mayden/solid-foundation">solid-foundation</a></li>
 </ul>

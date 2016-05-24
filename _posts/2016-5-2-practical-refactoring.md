@@ -29,6 +29,7 @@ The goal of refactoring is to make code more understandable.
 
 Three C's
 ---
+
 Remove clutter
 ---
 - anything that doesn't add understanding or clarity

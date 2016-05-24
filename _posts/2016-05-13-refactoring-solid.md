@@ -9,7 +9,7 @@ Refactoring to a S.O.L.I.D. Foundation, Steve Bohlen
 --
 [Steve Bohlen's excellent talk](https://www.youtube.com/watch?v=huEEkx5P5Hs&ab_channel=ExcellaConsulting) really helped me understand and put into practise the solid principles so I ported the exercise to PHP.
 
-[Php Source code](https://github.com/peter-wilkins-mayden/solid-foundation). The is one commit per section below. Instructions are also in the commit messages.
+[Php Source code](https://github.com/peter-wilkins-mayden/solid-foundation). There is one commit per section below. Instructions are also in the commit messages.
 
 Single Responsibility
 ---
